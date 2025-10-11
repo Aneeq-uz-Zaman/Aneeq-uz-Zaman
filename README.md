@@ -47,7 +47,7 @@ I love solving problems, exploring new technologies, and building creative proje
 2. [Gaming Hub](https://github.com/Aneeq-uz-Zaman/Gaming-Hub) — Basic website built with HTML, CSS, and JavaScript.
 3. Skillsphere (Hackathon project):
    - [Frontend](https://github.com/shafin2/skillsphere-frontend)
-   - [Backend](https://github.com/shafin2/skillsphere-backend)2/skillsphere-backend
+   - [Backend](https://github.com/shafin2/skillsphere-backend)
 
 ---
 
@@ -66,7 +66,7 @@ I love solving problems, exploring new technologies, and building creative proje
 
 - [x] Learn Markdown  
 - [x] Build my GitHub Profile  
-- [x] Start working on AI Projects  
+- [ ] Start working on AI Projects  
 - [ ] Contribute to Open Source  
 - [ ] Become a Professional AI Developer  
 - [ ] Launch my own Automation Tool  
