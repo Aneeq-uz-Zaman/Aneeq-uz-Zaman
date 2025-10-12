@@ -1,6 +1,3 @@
-<!-- Banner / GIF -->
-![Banner](https://i.ibb.co/6PjQ4bT/github-banner.png)
-
 # 👋 Hi, I'm **Muhammad Aneeq Uz Zaman**
 
 > *"Code. Learn. Build. Repeat."*
