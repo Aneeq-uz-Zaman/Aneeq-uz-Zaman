@@ -53,8 +53,8 @@ I love solving problems, exploring new technologies, and building creative proje
 
 | Project Name           | Description                                | Tech Used                        | Year |
 |-------------------------|--------------------------------------------|------------------------------------|------|
-| Automation Scripts      | Automated daily tasks                      | Python, Selenium, BeautifulSoup   | 2025 |
-| Web Portfolio           | Personal website showcasing my skills     | HTML, CSS, JS                     | 2025 |
+| Automation Scripts      | Automated daily tasks                      | Python, Selenium, BeautifulSoup   | 2024 |
+| Web Portfolio           | Personal website showcasing my skills     | React+Tailwind                     | 2025 |
 
 
 ---
@@ -74,7 +74,7 @@ I love solving problems, exploring new technologies, and building creative proje
 
 - 📧 [Email Me](mailto:aniq24dec@gmail.com)  
 - 💼 [LinkedIn](https://www.linkedin.com/in/Aneeq-uz-Zaman/)  
-- 🐙 [GitHub](https://github.com/Aneeq-uz-Zaman)
+- 🐙 [GitHub](https://aneeqportfolio.vercel.app/)
 
 ---
 
