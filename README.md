@@ -14,9 +14,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg">
-  <img alt="Muhammad Aneeq Uz Zaman — Full Stack Developer and Python Automation Engineer" src="./dark.svg" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=3">
+  <img alt="Muhammad Aneeq Uz Zaman — Full Stack Developer and Python Automation Engineer" src="./dark.svg?v=3" width="100%">
 </picture>
 
 <br/><br/>
@@ -86,15 +86,15 @@ manual step and keeps working after you stop watching it. **Available for freela
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg">
-  <img alt="GitHub at a glance" src="./stats-dark.svg" height="200"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg?v=3">
+  <img alt="GitHub at a glance" src="./stats-dark.svg?v=3" height="200"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./langs-dark.svg">
-  <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg">
-  <img alt="Most used languages" src="./langs-dark.svg" height="200"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./langs-dark.svg?v=3">
+  <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg?v=3">
+  <img alt="Most used languages" src="./langs-dark.svg?v=3" height="200"/>
 </picture>
 
 <br/><br/>
