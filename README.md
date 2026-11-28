@@ -14,9 +14,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=5">
-  <img alt="Muhammad Aneeq Uz Zaman — Full Stack Developer and Python Automation Engineer" src="./dark.svg?v=5" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=6">
+  <img alt="Muhammad Aneeq Uz Zaman — Full Stack Developer and Python Automation Engineer" src="./dark.svg?v=6" width="100%">
 </picture>
 
 <br/><br/>
@@ -97,15 +97,15 @@ manual step and keeps working after you stop watching it. **Available for freela
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg?v=5">
-  <img alt="GitHub at a glance" src="./stats-dark.svg?v=5" height="200"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg?v=6">
+  <img alt="GitHub at a glance" src="./stats-dark.svg?v=6" height="200"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./langs-dark.svg?v=5">
-  <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg?v=5">
-  <img alt="Most used languages" src="./langs-dark.svg?v=5" height="200"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./langs-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg?v=6">
+  <img alt="Most used languages" src="./langs-dark.svg?v=6" height="200"/>
 </picture>
 
 <br/><br/>
@@ -116,6 +116,16 @@ manual step and keeps working after you stop watching it. **Available for freela
   <img alt="GitHub streak" src="https://streak-stats.demolab.com?user=Aneeq-uz-Zaman&hide_border=true&background=0e2331&ring=2ed3b7&fire=ff8a3d&currStreakNum=e8f1f7&currStreakLabel=2ed3b7&sideNums=e8f1f7&sideLabels=9db2c2&dates=6f8797" height="180"/>
 </picture>
 
+</div>
+
+### ⚡ Skills
+
+<div align="center">
+<picture>
+  <source media="(prefers-color-scheme: dark)"  srcset="./skills-dark.svg?v=6">
+  <source media="(prefers-color-scheme: light)" srcset="./skills-light.svg?v=6">
+  <img alt="Skill levels" src="./skills-dark.svg?v=6" width="100%">
+</picture>
 </div>
 
 ### 🛠️ Stack

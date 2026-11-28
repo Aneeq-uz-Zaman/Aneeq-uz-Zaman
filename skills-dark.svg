@@ -1,0 +1,57 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1180" height="434" viewBox="0 0 1180 434">
+<defs><linearGradient id="g" x1="0" x2="1"><stop offset="0" stop-color="#2ed3b7"/><stop offset="1" stop-color="#ff8a3d"/></linearGradient></defs>
+<rect x="1" y="1" width="1178" height="432" rx="18" fill="#0e2331" stroke="rgba(255,255,255,0.08)"/>
+<rect x="1" y="1" width="1178" height="46" rx="18" fill="#16303f" fill-opacity="0.6"/>
+<circle cx="26" cy="24" r="5.5" fill="#ff8a3d"/>
+<circle cx="46" cy="24" r="5.5" fill="#8cf1de"/>
+<circle cx="66" cy="24" r="5.5" fill="#2ed3b7"/>
+<text x="590.0" y="28" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="13" fill="#9db2c2">skills.sh — ./show --levels</text>
+<text x="50" y="92" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">Python</text>
+<text x="550" y="92" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">95%</text>
+<rect x="50" y="104" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="50" y="104" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="475.0" begin="0.2s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="50" y="144" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">Selenium & Web Scraping</text>
+<text x="550" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">95%</text>
+<rect x="50" y="156" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="50" y="156" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="475.0" begin="0.32s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="50" y="196" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">Pandas / NumPy</text>
+<text x="550" y="196" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">93%</text>
+<rect x="50" y="208" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="50" y="208" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="465.0" begin="0.44s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="50" y="248" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">Streamlit & Gradio</text>
+<text x="550" y="248" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">85%</text>
+<rect x="50" y="260" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="50" y="260" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="425.0" begin="0.56s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="50" y="300" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">RAG / LLM Apps</text>
+<text x="550" y="300" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">80%</text>
+<rect x="50" y="312" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="50" y="312" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="400.0" begin="0.68s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="50" y="352" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">Scikit-learn</text>
+<text x="550" y="352" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">78%</text>
+<rect x="50" y="364" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="50" y="364" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="390.0" begin="0.8s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="620" y="92" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">React.js</text>
+<text x="1120" y="92" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">90%</text>
+<rect x="620" y="104" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="620" y="104" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="450.0" begin="0.92s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="620" y="144" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">Next.js</text>
+<text x="1120" y="144" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">85%</text>
+<rect x="620" y="156" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="620" y="156" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="425.0" begin="1.04s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="620" y="196" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">JavaScript</text>
+<text x="1120" y="196" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">85%</text>
+<rect x="620" y="208" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="620" y="208" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="425.0" begin="1.16s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="620" y="248" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">MongoDB</text>
+<text x="1120" y="248" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">82%</text>
+<rect x="620" y="260" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="620" y="260" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="410.0" begin="1.28s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="620" y="300" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">TypeScript</text>
+<text x="1120" y="300" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">75%</text>
+<rect x="620" y="312" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="620" y="312" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="375.0" begin="1.4s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+<text x="620" y="352" font-family="ui-sans-serif,-apple-system,'Segoe UI',Roboto,Helvetica,Arial,sans-serif" font-size="16" font-weight="600" fill="#e8f1f7">C / C++</text>
+<text x="1120" y="352" text-anchor="end" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,monospace" font-size="14" fill="#9db2c2">78%</text>
+<rect x="620" y="364" width="500" height="9" rx="4.5" fill="rgba(255,255,255,0.08)"/>
+<rect x="620" y="364" width="0" height="9" rx="4.5" fill="url(#g)"><animate attributeName="width" from="0" to="390.0" begin="1.52s" dur="1.4s" fill="freeze" calcMode="spline" keySplines="0.22 1 0.36 1" keyTimes="0;1"/></rect>
+</svg>
