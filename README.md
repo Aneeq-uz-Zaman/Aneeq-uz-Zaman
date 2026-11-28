@@ -32,26 +32,14 @@
 
 ---
 
-<table>
-<tr>
-<td width="200" align="center" valign="top">
-<img src="./profile.png" width="170" alt="Muhammad Aneeq Uz Zaman"><br/>
-<sub><b>Muhammad Aneeq Uz Zaman</b><br/>Lahore, Pakistan 🇵🇰</sub>
-</td>
-<td valign="top">
-
 ### 👋 About
 
-I'm a **BS Data Science** student at **PUCIT, Lahore** who builds full-stack products and the Python
-automation that feeds them. I started out automating other people's busywork on Fiverr, and I still
-care about the same thing: software that removes a manual step and keeps working after you stop
-watching it. **Available for freelance.**
+I'm **Muhammad Aneeq Uz Zaman** — a **BS Data Science** student at **PUCIT, Lahore** who builds
+full-stack products and the Python automation that feeds them. I started out automating other
+people's busywork on Fiverr, and I still care about the same thing: software that removes a
+manual step and keeps working after you stop watching it. **Available for freelance.**
 
 > *“Build useful systems. Keep them elegant. Keep them fast.”*
-
-</td>
-</tr>
-</table>
 
 | | |
 |---|---|
