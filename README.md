@@ -14,9 +14,9 @@
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=4">
-  <img alt="Muhammad Aneeq Uz Zaman — Full Stack Developer and Python Automation Engineer" src="./dark.svg?v=4" width="100%">
+  <source media="(prefers-color-scheme: dark)"  srcset="./dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./light.svg?v=5">
+  <img alt="Muhammad Aneeq Uz Zaman — Full Stack Developer and Python Automation Engineer" src="./dark.svg?v=5" width="100%">
 </picture>
 
 <br/><br/>
@@ -70,6 +70,17 @@ manual step and keeps working after you stop watching it. **Available for freela
 
 <sub>Several production apps (Dukaan360, Resume Studio) live in private repos — the live links above are the real deployments.</sub>
 
+### 🧭 Experience
+
+| When | Role | What I did |
+|---|---|---|
+| **2025 – Now** | **Full-Stack & AI Product Builder** · Independent / Open Source | Shipped Dukaan360 (multi-tenant POS SaaS) and Resume Studio (CV-builder SaaS), plus DocPilotAI and LifePilotAI on Groq / Llama 3 |
+| **Fall 2026** | **Software Engineering Team Project** · PUCIT | Group 07 Tic Tac Toe platform — accounts, matchmaking, chat, tournaments, leaderboards, 3-level AI; staging + production on Vercel |
+| **2025 – 2026** | **Systems Programming** · PUCIT | Custom UNIX shell in C, a re-engineered `ls`, low-level C and x86 Assembly (COAL) |
+| **Aug 2023 – Nov 2024** | **Python Developer, Web Scraping & Automation** · Fiverr | 20+ projects with Selenium, BeautifulSoup and Pandas — real-estate data, company listings and reviews to automated Excel/CSV reports |
+
+<sub>Also built: Real Estate Data Scraper · Automated Report Generator · MERN app for a software agency · POS system · <a href="https://github.com/Aneeq-uz-Zaman/Gaming-Hub">Gaming Hub</a> · <a href="https://github.com/Aneeq-uz-Zaman/Fiver-auto-reload">Fiverr auto-reload bot</a></sub>
+
 ### 🏅 Certifications
 
 [![MERN Stack](https://img.shields.io/badge/MERN_Stack-SimpliLearn-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://aneequzzaman.vercel.app/certifications)
@@ -86,15 +97,15 @@ manual step and keeps working after you stop watching it. **Available for freela
 <div align="center">
 
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg?v=4">
-  <img alt="GitHub at a glance" src="./stats-dark.svg?v=4" height="200"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./stats-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./stats-light.svg?v=5">
+  <img alt="GitHub at a glance" src="./stats-dark.svg?v=5" height="200"/>
 </picture>
 &nbsp;
 <picture>
-  <source media="(prefers-color-scheme: dark)"  srcset="./langs-dark.svg?v=4">
-  <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg?v=4">
-  <img alt="Most used languages" src="./langs-dark.svg?v=4" height="200"/>
+  <source media="(prefers-color-scheme: dark)"  srcset="./langs-dark.svg?v=5">
+  <source media="(prefers-color-scheme: light)" srcset="./langs-light.svg?v=5">
+  <img alt="Most used languages" src="./langs-dark.svg?v=5" height="200"/>
 </picture>
 
 <br/><br/>
