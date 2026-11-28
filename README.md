@@ -72,14 +72,14 @@ manual step and keeps working after you stop watching it. **Available for freela
 
 ### 🏅 Certifications
 
-![MERN Stack](https://img.shields.io/badge/MERN_Stack-SimpliLearn-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![Selenium](https://img.shields.io/badge/Web_Scraping_%26_Automation-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![Python](https://img.shields.io/badge/Python-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![React](https://img.shields.io/badge/ReactJS-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![C++](https://img.shields.io/badge/C++-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![MongoDB](https://img.shields.io/badge/MongoDB-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
-![MOS](https://img.shields.io/badge/MOS_2019-Microsoft-071018?style=flat-square&labelColor=0e2331&color=ff8a3d)
+[![MERN Stack](https://img.shields.io/badge/MERN_Stack-SimpliLearn-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://aneequzzaman.vercel.app/certifications)
+[![Selenium](https://img.shields.io/badge/Web_Scraping_%26_Automation-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://www.udemy.com/certificate/UC-c0001811-9b65-4d42-b558-212cd0a17da5/)
+[![Python](https://img.shields.io/badge/Python-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://www.udemy.com/certificate/UC-4fe63977-2f9b-415e-b812-02d74b85cf49/)
+[![ReactJS](https://img.shields.io/badge/ReactJS-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://www.udemy.com/certificate/UC-f1b1d487-b2b0-4d81-82d8-f413658e585f/)
+[![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://www.udemy.com/certificate/UC-c61cf04b-5117-4912-b723-16e6e600c4f6/)
+[![C++](https://img.shields.io/badge/C++-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://www.udemy.com/certificate/UC-4458e861-3241-4f28-9121-4c77a9af1bbd/)
+[![MongoDB](https://img.shields.io/badge/MongoDB-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)](https://www.udemy.com/certificate/UC-08f6ad2b-febe-445f-a07c-64da9626338e/)
+[![MOS](https://img.shields.io/badge/MOS_2019-Microsoft-071018?style=flat-square&labelColor=0e2331&color=ff8a3d)](https://aneequzzaman.vercel.app/certifications)
 
 ### 📊 GitHub
 
