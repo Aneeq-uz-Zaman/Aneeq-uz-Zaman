@@ -32,29 +32,64 @@
 
 ---
 
+<table>
+<tr>
+<td width="200" align="center" valign="top">
+<img src="./profile.png" width="170" alt="Muhammad Aneeq Uz Zaman"><br/>
+<sub><b>Muhammad Aneeq Uz Zaman</b><br/>Lahore, Pakistan 🇵🇰</sub>
+</td>
+<td valign="top">
+
 ### 👋 About
 
-I'm **Muhammad Aneeq Uz Zaman** — a **BS Data Science** student at **PUCIT, Lahore** who builds
-full-stack products and the Python automation that feeds them. I started out automating other
-people's busywork on Fiverr, and I still care about the same thing: software that removes a
-manual step and keeps working after you stop watching it. **Available for freelance.**
+I'm a **BS Data Science** student at **PUCIT, Lahore** who builds full-stack products and the Python
+automation that feeds them. I started out automating other people's busywork on Fiverr, and I still
+care about the same thing: software that removes a manual step and keeps working after you stop
+watching it. **Available for freelance.**
 
-- 🤖 &nbsp;**Automation & scraping** — Selenium · BeautifulSoup · PyAutoGUI; listings, reviews and company data out to clean Excel/CSV
-- 🧩 &nbsp;**Full-stack** — Next.js · React · Node/Express · MongoDB · Tailwind
-- 📊 &nbsp;**Data science** — Pandas · NumPy · Jupyter; traffic-safety and smart-city analytics
-- 🎓 &nbsp;BS Data Science, **PUCIT (New Campus)** — CGPA **3.60/4.0**, class of 2028
-- 💼 &nbsp;**20+ projects delivered** as a freelance Python developer — Fiverr, Aug 2023 – Nov 2024
+> *“Build useful systems. Keep them elegant. Keep them fast.”*
 
-### 🚀 Things I've built
+</td>
+</tr>
+</table>
+
+| | |
+|---|---|
+| 🎓 **Education** | BS Data Science, PUCIT (New Campus) — CGPA **3.60 / 4.0**, class of 2028 |
+| 💼 **Experience** | **20+ projects** delivered as a freelance Python developer — Fiverr, Aug 2023 – Nov 2024 |
+| 🚀 **Now** | Shipping full-stack & AI products (MERN / Next.js, RAG chatbots) · OS & systems coursework in C |
+| 🤖 **Automation** | Selenium · BeautifulSoup · PyAutoGUI — listings, reviews and company data out to clean Excel/CSV |
+| 🧩 **Full-stack** | Next.js · React · Node/Express · MongoDB · Tailwind |
+| 📊 **Data** | Pandas · NumPy · Scikit-learn · Streamlit · Jupyter |
+
+### 🚀 Featured work
 
 | Project | What it does | Built with |
 |---|---|---|
-| **[DocPilotAI](https://github.com/Aneeq-uz-Zaman/DocPilotAI)** · [try it](https://huggingface.co/spaces/ANEEQ-UZ-ZAMAN/DocPilotAI) | RAG chatbot — upload a PDF, ask questions, get answers grounded in the document | Python · Gradio · Groq |
-| **[LifePilotAI](https://github.com/Aneeq-uz-Zaman/LifePilotAI)** | Study & freelancing assistant for university students | Python · Gradio |
-| **[Notes Vault](https://github.com/Aneeq-uz-Zaman/PASTEAPP)** | Notes app with email-code verification, JWT cookies and per-user scoping | Next.js · MongoDB |
-| **[Maze Path Finder](https://github.com/Aneeq-uz-Zaman/path-finder)** | DFS pathfinding visualiser built to make graph theory and backtracking visible | JavaScript |
-| **[Smart City Traffic Analytics](https://github.com/Aneeq-uz-Zaman/SMART-CITY-TRAFFIC-SAFETY-ANALYTICS)** | Accident data analysis — cleaning, feature work and road-safety insights | Jupyter · Pandas |
-| **[Portfolio](https://github.com/Aneeq-uz-Zaman/Portfolio-website)** · [live](https://aneequzzaman.vercel.app) | The site this banner takes its colours from | React · Framer Motion · Three.js |
+| 🤖 **[DocPilotAI](https://github.com/Aneeq-uz-Zaman/DocPilotAI)** · [live demo](https://huggingface.co/spaces/ANEEQ-UZ-ZAMAN/DocPilotAI) | RAG chatbot — upload a PDF, ask questions, get answers grounded in the document with sources | Python · Gradio · Groq |
+| 🧭 **[LifePilotAI](https://github.com/Aneeq-uz-Zaman/LifePilotAI)** | Study, freelancing and motivation assistant with step-by-step guidance | Python · Gradio · Llama 3 |
+| 📋 **[Notes Vault](https://github.com/Aneeq-uz-Zaman/PASTEAPP)** · [live](https://pasteapp-gold.vercel.app) | Notes app with email-code verification, HTTP-only JWT cookies and per-user scoping | Next.js · MongoDB |
+| 🏪 **Dukaan360** · [live](https://dukaan360.vercel.app) | Multi-tenant POS & inventory for wholesale/retail shops — billing, customers, payments, reports | Next.js 15 · React 19 · MongoDB |
+| 📄 **Resume Studio** · [live](https://resumifypilot.vercel.app) | Resume builder SaaS — verified auth, drag-and-drop sections, auto-save, live preview | Next.js · TypeScript · Auth.js |
+| ❌ **Tic Tac Toe Platform** · [live](https://se-project-g07.vercel.app) | Online play, matchmaking, chat, tournaments, leaderboards and an easy/medium/hard AI | Next.js · TypeScript · MongoDB |
+| 🚦 **[Traffic Severity Predictor](https://github.com/Aneeq-uz-Zaman/traffic_accidents_analysis)** | Decision-tree model predicting crash severity, with a Streamlit app | Scikit-learn · Streamlit |
+| 🏙️ **[Smart City Traffic Analytics](https://github.com/Aneeq-uz-Zaman/SMART-CITY-TRAFFIC-SAFETY-ANALYTICS)** | EDA on city road-safety data to surface patterns behind accidents | Jupyter · Pandas |
+| 🧩 **[Maze Path Finder](https://github.com/Aneeq-uz-Zaman/path-finder)** · [live](https://maze-problem-blond.vercel.app) | DFS visualiser that makes graph theory and backtracking visible | JavaScript |
+| 🐚 **[Custom UNIX Shell](https://github.com/Aneeq-uz-Zaman/BSDSF24A033-OS-A03)** | A command-line interpreter built from scratch for the OS course | C · Linux · Make |
+| 🌐 **[Portfolio](https://github.com/Aneeq-uz-Zaman/Portfolio-website)** · [live](https://aneequzzaman.vercel.app) | The site this profile takes its colours from | React · Framer Motion · Three.js |
+
+<sub>Several production apps (Dukaan360, Resume Studio) live in private repos — the live links above are the real deployments.</sub>
+
+### 🏅 Certifications
+
+![MERN Stack](https://img.shields.io/badge/MERN_Stack-SimpliLearn-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![Selenium](https://img.shields.io/badge/Web_Scraping_%26_Automation-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![Python](https://img.shields.io/badge/Python-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![React](https://img.shields.io/badge/ReactJS-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![Tailwind](https://img.shields.io/badge/Tailwind_CSS-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![C++](https://img.shields.io/badge/C++-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![MongoDB](https://img.shields.io/badge/MongoDB-Udemy-071018?style=flat-square&labelColor=0e2331&color=2ed3b7)
+![MOS](https://img.shields.io/badge/MOS_2019-Microsoft-071018?style=flat-square&labelColor=0e2331&color=ff8a3d)
 
 ### 📊 GitHub
 
