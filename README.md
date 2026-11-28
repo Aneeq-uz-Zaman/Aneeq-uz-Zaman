@@ -55,12 +55,14 @@ watching it. **Available for freelance.**
 
 | | |
 |---|---|
-| 🎓 **Education** | BS Data Science, PUCIT (New Campus) — CGPA **3.60 / 4.0**, class of 2028 |
+| 🎓 **Education** | BS Data Science, PUCIT (New Campus) — CGPA **3.54 / 4.0**, class of 2028 |
+| 📚 **Background** | ICS 1006/1200 (Punjab College) · Matric 1038/1100 (CS) · 1.5+ years of professional experience |
 | 💼 **Experience** | **20+ projects** delivered as a freelance Python developer — Fiverr, Aug 2023 – Nov 2024 |
 | 🚀 **Now** | Shipping full-stack & AI products (MERN / Next.js, RAG chatbots) · OS & systems coursework in C |
 | 🤖 **Automation** | Selenium · BeautifulSoup · PyAutoGUI — listings, reviews and company data out to clean Excel/CSV |
 | 🧩 **Full-stack** | Next.js · React · Node/Express · MongoDB · Tailwind |
 | 📊 **Data** | Pandas · NumPy · Scikit-learn · Streamlit · Jupyter |
+| 🧠 **AI apps** | RAG & LLM apps — Groq · Llama 3 · Gradio · Hugging Face Spaces |
 
 ### 🚀 Featured work
 

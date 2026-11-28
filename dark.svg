@@ -126,28 +126,34 @@
     <!-- typing prompt -->
     <text x="508" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="#2ed3b7">&gt;</text>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0;0.0625;0.1625;0.2;1" dur="12.8s" repeatCount="indefinite"/>
-      <defs><clipPath id="clip-dark-0"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;252.0;252.0;0;0" keyTimes="0;0.0;0.0625;0.1625;0.2;1" dur="12.8s" repeatCount="indefinite"/></rect></clipPath></defs>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.0;0.05;0.13;0.16;1" dur="16.0s" repeatCount="indefinite"/>
+      <defs><clipPath id="clip-dark-0"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;252.0;252.0;0;0" keyTimes="0;0.0;0.05;0.13;0.16;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath></defs>
       <text x="526" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="url(#acc-dark)" clip-path="url(#clip-dark-0)">Full Stack Developer</text>
-      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;778.0;778.0;526;526" keyTimes="0;0.0;0.0625;0.1625;0.2;1" dur="12.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;778.0;778.0;526;526" keyTimes="0;0.0;0.05;0.13;0.16;1" dur="16.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.25;0.3125;0.4125;0.45;1" dur="12.8s" repeatCount="indefinite"/>
-      <defs><clipPath id="clip-dark-1"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;327.6;327.6;0;0" keyTimes="0;0.25;0.3125;0.4125;0.45;1" dur="12.8s" repeatCount="indefinite"/></rect></clipPath></defs>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.2;0.25;0.33;0.36;1" dur="16.0s" repeatCount="indefinite"/>
+      <defs><clipPath id="clip-dark-1"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;327.6;327.6;0;0" keyTimes="0;0.2;0.25;0.33;0.36;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath></defs>
       <text x="526" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="url(#acc-dark)" clip-path="url(#clip-dark-1)">Python Automation Engineer</text>
-      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;853.6;853.6;526;526" keyTimes="0;0.25;0.3125;0.4125;0.45;1" dur="12.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;853.6;853.6;526;526" keyTimes="0;0.2;0.25;0.33;0.36;1" dur="16.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.5;0.5625;0.6625;0.7;1" dur="12.8s" repeatCount="indefinite"/>
-      <defs><clipPath id="clip-dark-2"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;252.0;252.0;0;0" keyTimes="0;0.5;0.5625;0.6625;0.7;1" dur="12.8s" repeatCount="indefinite"/></rect></clipPath></defs>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.4;0.45;0.53;0.56;1" dur="16.0s" repeatCount="indefinite"/>
+      <defs><clipPath id="clip-dark-2"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;252.0;252.0;0;0" keyTimes="0;0.4;0.45;0.53;0.56;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath></defs>
       <text x="526" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="url(#acc-dark)" clip-path="url(#clip-dark-2)">Data Science Student</text>
-      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;778.0;778.0;526;526" keyTimes="0;0.5;0.5625;0.6625;0.7;1" dur="12.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;778.0;778.0;526;526" keyTimes="0;0.4;0.45;0.53;0.56;1" dur="16.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
     </g>
     <g opacity="0">
-      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.75;0.8125;0.9125;0.95;1" dur="12.8s" repeatCount="indefinite"/>
-      <defs><clipPath id="clip-dark-3"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;226.8;226.8;0;0" keyTimes="0;0.75;0.8125;0.9125;0.95;1" dur="12.8s" repeatCount="indefinite"/></rect></clipPath></defs>
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.6;0.65;0.73;0.76;1" dur="16.0s" repeatCount="indefinite"/>
+      <defs><clipPath id="clip-dark-3"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;226.8;226.8;0;0" keyTimes="0;0.6;0.65;0.73;0.76;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath></defs>
       <text x="526" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="url(#acc-dark)" clip-path="url(#clip-dark-3)">MERN Stack Builder</text>
-      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;752.8;752.8;526;526" keyTimes="0;0.75;0.8125;0.9125;0.95;1" dur="12.8s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
+      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;752.8;752.8;526;526" keyTimes="0;0.6;0.65;0.73;0.76;1" dur="16.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
+    </g>
+    <g opacity="0">
+      <animate attributeName="opacity" values="0;0;1;1;0;0" keyTimes="0;0.8;0.85;0.93;0.96;1" dur="16.0s" repeatCount="indefinite"/>
+      <defs><clipPath id="clip-dark-4"><rect x="526" y="186" height="28" width="0"><animate attributeName="width" values="0;0;252.0;252.0;0;0" keyTimes="0;0.8;0.85;0.93;0.96;1" dur="16.0s" repeatCount="indefinite"/></rect></clipPath></defs>
+      <text x="526" y="206" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="21" font-weight="700" fill="url(#acc-dark)" clip-path="url(#clip-dark-4)">AI / RAG App Builder</text>
+      <rect y="188" width="11" height="23" rx="1.5" fill="#ff8a3d" x="526"><animate attributeName="x" values="526;526;778.0;778.0;526;526" keyTimes="0;0.8;0.85;0.93;0.96;1" dur="16.0s" repeatCount="indefinite"/><animate attributeName="opacity" values="1;1;1;0.2;1;1" keyTimes="0;0.02;0.5;0.55;0.9;1" dur="0.9s" repeatCount="indefinite"/></rect>
     </g>
     <!-- divider -->
     <line x1="508" y1="230" x2="1122" y2="230" stroke="rgba(255,255,255,0.08)"/>
@@ -160,12 +166,12 @@
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.42s" dur="0.5s" fill="freeze"/>
       <circle cx="514" cy="286" r="3" fill="url(#acc-dark)"/>
       <text x="530" y="291" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#6f8797" xml:space="preserve">Education</text>
-      <text x="636" y="291" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#9db2c2">BS Data Science — PUCIT (CGPA 3.60/4.0)</text>
+      <text x="636" y="291" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#9db2c2">BS Data Science — PUCIT (CGPA 3.54/4.0)</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.64s" dur="0.5s" fill="freeze"/>
       <circle cx="514" cy="319" r="3" fill="url(#acc-dark)"/>
       <text x="530" y="324" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#6f8797" xml:space="preserve">Focus    </text>
-      <text x="636" y="324" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#9db2c2">Automation · Scraping · MERN · Data</text>
+      <text x="636" y="324" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="14.5" fill="#9db2c2">Automation · MERN · AI/RAG · Data</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="1.86s" dur="0.5s" fill="freeze"/>
       <circle cx="514" cy="352" r="3" fill="url(#acc-dark)"/>
@@ -208,9 +214,9 @@
       <text x="946.7" y="476" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Node.js</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.75s" dur="0.45s" fill="freeze"/>
-      <rect x="1001.0" y="456" width="88.6" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
-      <rect x="1001.0" y="456" width="88.6" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></rect>
-      <text x="1045.3" y="476" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Express</text>
+      <rect x="1001.0" y="456" width="96.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
+      <rect x="1001.0" y="456" width="96.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="0.9s" repeatCount="indefinite"/></rect>
+      <text x="1049.2" y="476" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Tailwind</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.82s" dur="0.45s" fill="freeze"/>
       <rect x="508" y="498" width="88.6" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
@@ -218,29 +224,29 @@
       <text x="552.3" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">MongoDB</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.89s" dur="0.45s" fill="freeze"/>
-      <rect x="606.6" y="498" width="96.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
-      <rect x="606.6" y="498" width="96.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.26s" repeatCount="indefinite"/></rect>
-      <text x="654.8" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Tailwind</text>
+      <rect x="606.6" y="498" width="112.0" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
+      <rect x="606.6" y="498" width="112.0" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.26s" repeatCount="indefinite"/></rect>
+      <text x="662.6" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">TypeScript</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="2.96s" dur="0.45s" fill="freeze"/>
-      <rect x="713.0" y="498" width="80.8" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
-      <rect x="713.0" y="498" width="80.8" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.44s" repeatCount="indefinite"/></rect>
-      <text x="753.4" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Pandas</text>
+      <rect x="728.6" y="498" width="80.8" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
+      <rect x="728.6" y="498" width="80.8" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.44s" repeatCount="indefinite"/></rect>
+      <text x="769.0" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Pandas</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.03s" dur="0.45s" fill="freeze"/>
-      <rect x="803.8" y="498" width="96.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
-      <rect x="803.8" y="498" width="96.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.62s" repeatCount="indefinite"/></rect>
-      <text x="852.0" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Selenium</text>
+      <rect x="819.4" y="498" width="96.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
+      <rect x="819.4" y="498" width="96.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.62s" repeatCount="indefinite"/></rect>
+      <text x="867.6" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">Selenium</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.1s" dur="0.45s" fill="freeze"/>
-      <rect x="910.1999999999999" y="498" width="57.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
-      <rect x="910.1999999999999" y="498" width="57.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></rect>
-      <text x="938.9" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">C++</text>
+      <rect x="925.8" y="498" width="57.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
+      <rect x="925.8" y="498" width="57.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.8s" repeatCount="indefinite"/></rect>
+      <text x="954.5" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">C++</text>
     </g>
     <g opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.17s" dur="0.45s" fill="freeze"/>
-      <rect x="977.5999999999999" y="498" width="57.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
-      <rect x="977.5999999999999" y="498" width="57.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.98s" repeatCount="indefinite"/></rect>
-      <text x="1006.3" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">SQL</text>
+      <rect x="993.1999999999999" y="498" width="57.4" height="30" rx="15" fill="rgba(46,211,183,0.10)" stroke="rgba(46,211,183,0.35)" stroke-width="1"/>
+      <rect x="993.1999999999999" y="498" width="57.4" height="30" rx="15" fill="none" stroke="url(#acc-dark)" stroke-width="1" opacity="0"><animate attributeName="opacity" values="0;0.45;0" dur="3.6s" begin="1.98s" repeatCount="indefinite"/></rect>
+      <text x="1021.9" y="518" text-anchor="middle" font-family="ui-monospace,SFMono-Regular,Menlo,Consolas,'Liberation Mono',monospace" font-size="13" fill="#e8f1f7">SQL</text>
     </g>
     <!-- footer links -->
     <g transform="translate(508,556)" opacity="0"><animate attributeName="opacity" from="0" to="1" begin="3.4s" dur="0.6s" fill="freeze"/>

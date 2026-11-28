@@ -16,17 +16,18 @@ PROFILE = {
         "Python Automation Engineer",
         "Data Science Student",
         "MERN Stack Builder",
+        "AI / RAG App Builder",
     ],
     "rows": [
         ("Location ", "Lahore, Pakistan"),
-        ("Education", "BS Data Science — PUCIT (CGPA 3.60/4.0)"),
-        ("Focus    ", "Automation · Scraping · MERN · Data"),
+        ("Education", "BS Data Science — PUCIT (CGPA 3.54/4.0)"),
+        ("Focus    ", "Automation · MERN · AI/RAG · Data"),
         ("Portfolio", "aneequzzaman.vercel.app"),
         ("Email    ", "aneeq24dec@gmail.com"),
     ],
     "stack": [
-        "Python", "JavaScript", "React", "Next.js", "Node.js", "Express",
-        "MongoDB", "Tailwind", "Pandas", "Selenium", "C++", "SQL",
+        "Python", "JavaScript", "React", "Next.js", "Node.js", "Tailwind",
+        "MongoDB", "TypeScript", "Pandas", "Selenium", "C++", "SQL",
     ],
     "links": [
         ("github", "Aneeq-uz-Zaman"),
